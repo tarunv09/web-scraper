@@ -1,7 +1,7 @@
 {
   "name": "web-scraper",
   "version": "1.0.0",
-  "description": "scrape title and description from https://arstechnica.com/gadgets/",
+  "description": "scrape the title and description from https://arstechnica.com/gadgets/",
   "main": "arstechnica_scraper.js",
   "scripts": {
     "start": "node arstechnica_scraper.js"
